@@ -30,7 +30,7 @@ public class TS {
 		t2.add("jspider");
 		t2.add("qspider");
 		t2.add("java");
-		System.out.println("printing using loop");
+		System.out.println("printing using foreach loop");
 		for(String s:t2)
 		{
 			System.out.println(s);
